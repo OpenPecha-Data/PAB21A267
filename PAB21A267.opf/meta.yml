@@ -1,0 +1,19 @@
+id: PAB21A267
+initial_creation_type: input
+source_metadata:
+  title: Prophecy Series
+  language: zh
+  description: 'A selection of texts on the theme of prophecy or predictions (Skt.
+    vyākaraṇa; Tib. lung bstan):'
+  volume:
+    d677b6542deb40a3a7bd7f4231fde288:
+      title: The Guidebook to the Hidden Land of Pemokö
+      parent: Terma
+    77bb4be62d7c4a639a9eb039a788c5ad:
+      title: 'Liberation Upon Hearing: The History of the Great Jarung Kashor Stūpa'
+      parent: Terma
+    dca9593c7e3142abad6f1f5197c255dd:
+      title: 'The Clarifying Light: A Prophecy of the Future'
+      parent: Words of the Buddha
+created_at: '2022-03-01T05:24:04.311975'
+last_modified_at: '2022-03-01T05:24:04.311978'
